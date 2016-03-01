@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\FPS Scripts\3rd Person Cam.js">
+    <Files>
+      <File FileName="Assets\FPS Scripts\Scope.js" Line="2" Column="27" />
+      <File FileName="Assets\FPS Scripts\FPS Movement.js" Line="2" Column="35" />
+      <File FileName="Assets\FPS Scripts\FPS Mouselook.js" Line="69" Column="37" />
+      <File FileName="Assets\FPS Scripts\Scope FOV.js" Line="33" Column="56" />
+      <File FileName="Assets\FPS Scripts\Flashlight.js" Line="2" Column="21" />
+      <File FileName="Assets\FPS Scripts\3rd Person Cam.js" Line="14" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
